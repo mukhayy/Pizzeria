@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Pizzeria</string>
+    <string name="profile">Profile</string>
+    <string name="favourite">Favourite</string>
+    <string name="menu">Menu</string>
+    <string name="info">Change information</string>
+    <string name="cards">Telephone number</string>
+    <string name="addCard">Добавить платежную карту</string>
+    <string name="exit">Log out</string>
+    <string name="support">Call center</string>
+    <string name="press_to_add_phone_number">Press to add phone number</string>
+    <string name="price">Цена</string>
+    <string name="name">Название</string>
+    <string name="filling">Описание</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="amount">Количество</string>
+    <string name="where">Куда</string>
+    <string name="order">заказать</string>
+    <string name="orders">Orders</string>
+    <string name="rejected">rejected</string>
+    <string name="finished">finished</string>
+    <string name="waiting">waiting</string>
+
+
+    <string name="email_id">email id</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="failed">Authentication failed</string>
+    <string name="image">image</string>
+    <string name="create_a_new_account">Create a new Account!</string>
+
+
+</resources>
